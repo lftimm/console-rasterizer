@@ -1,6 +1,6 @@
 ﻿using System.Runtime.InteropServices;
 
-namespace TerminalRenderer;
+namespace ConsoleRasterizer;
 
 // .: Dark
 //-=+ Normal

@@ -1,4 +1,4 @@
-﻿namespace TerminalRenderer;
+﻿namespace ConsoleRasterizer;
 public class Renderer
 {
     private const float Step = 0.2f;

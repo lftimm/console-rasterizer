@@ -1,7 +1,7 @@
 ﻿using System.Diagnostics;
 using System.Text;
 
-namespace TerminalRenderer;
+namespace ConsoleRasterizer;
 
 public class ConsoleEngine
 {

@@ -1,4 +1,4 @@
-﻿namespace TerminalRenderer;
+﻿namespace ConsoleRasterizer;
 
 public partial record struct Matrix4
 {

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerminalRenderer", "TerminalRenderer\TerminalRenderer.csproj", "{D9BC62F3-3452-4F3A-9B44-406F95B4AABA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleRasterizer", "ConsoleRasterizer\ConsoleRasterizer.csproj", "{D9BC62F3-3452-4F3A-9B44-406F95B4AABA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

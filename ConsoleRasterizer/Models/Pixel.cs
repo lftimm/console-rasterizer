@@ -1,4 +1,4 @@
-﻿namespace TerminalRenderer;
+﻿namespace ConsoleRasterizer;
 public struct Pixel
 {
     private static readonly char[] Map = "$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\\|()1{}[]?-_+~<>i!lI;:,\"^`'. ".Reverse().ToArray();

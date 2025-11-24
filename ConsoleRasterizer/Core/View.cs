@@ -1,5 +1,5 @@
 ﻿
-namespace TerminalRenderer;
+namespace ConsoleRasterizer;
 public class View
 {
     public Matrix4 Transform { get; }
