@@ -6,10 +6,6 @@ This project is my companion while reading Peter Shirley's "Fundamentals of Comp
 ### Video-demo (clickable)
 [![Video demo](https://img.youtube.com/vi/lPetBtIs9k0/0.jpg)](https://www.youtube.com/watch?v=lPetBtIs9k0)
 
-## Controls
-- W, A, S, D : Move camera
-- Q, E : Rotate camera
-- Space, C: Move camera up and down
 
 ## Notable features
 Some things i did here were:
@@ -37,6 +33,12 @@ git clone https://github.com/lftimm/console-rasterizer
 cd console-rasterizer/ConsoleRasterizer
 dotnet run 
 ```
+
+## Controls
+- W, A, S, D : Move camera
+- Q, E : Rotate camera
+- Space, C: Move camera up and down
+
 
 ### Cross Platform
 Although it should in theory be cross platform, I have only managed to get it working on Windows.
